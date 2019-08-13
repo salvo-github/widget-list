@@ -1,0 +1,302 @@
+[
+  {
+    "index": 0,
+    "brand": "Audi",
+    "model": "Dickson",
+    "cost": "18426.29"
+  },
+  {
+    "index": 1,
+    "brand": "Audi",
+    "model": "Spence",
+    "cost": "60217.16"
+  },
+  {
+    "index": 2,
+    "brand": "Audi",
+    "model": "Freda",
+    "cost": "65783.09"
+  },
+  {
+    "index": 3,
+    "brand": "Mercedes",
+    "model": "Foster",
+    "cost": "98187.65"
+  },
+  {
+    "index": 4,
+    "brand": "Audi",
+    "model": "Wilkerson",
+    "cost": "28004.14"
+  },
+  {
+    "index": 5,
+    "brand": "Audi",
+    "model": "Calhoun",
+    "cost": "58846.16"
+  },
+  {
+    "index": 6,
+    "brand": "Audi",
+    "model": "Wilcox",
+    "cost": 19306
+  },
+  {
+    "index": 7,
+    "brand": "Audi",
+    "model": "Contreras",
+    "cost": "92108.64"
+  },
+  {
+    "index": 8,
+    "brand": "Mercedes",
+    "model": "Cummings",
+    "cost": "45552.62"
+  },
+  {
+    "index": 9,
+    "brand": "Mercedes",
+    "model": "Myrtle",
+    "cost": "53557.9"
+  },
+  {
+    "index": 10,
+    "brand": "Mercedes",
+    "model": "Andrews",
+    "cost": "95746.09"
+  },
+  {
+    "index": 11,
+    "brand": "Audi",
+    "model": "Malone",
+    "cost": "82273.14"
+  },
+  {
+    "index": 12,
+    "brand": "Bmw",
+    "model": "Leticia",
+    "cost": "27824.68"
+  },
+  {
+    "index": 13,
+    "brand": "Audi",
+    "model": "Justice",
+    "cost": "27494.91"
+  },
+  {
+    "index": 14,
+    "brand": "Bmw",
+    "model": "Rose",
+    "cost": "90251.65"
+  },
+  {
+    "index": 15,
+    "brand": "Audi",
+    "model": "Casey",
+    "cost": "28322.75"
+  },
+  {
+    "index": 16,
+    "brand": "Bmw",
+    "model": "Muriel",
+    "cost": "74430.23"
+  },
+  {
+    "index": 17,
+    "brand": "Audi",
+    "model": "Knox",
+    "cost": "98968.29"
+  },
+  {
+    "index": 18,
+    "brand": "Mercedes",
+    "model": "Helena",
+    "cost": "28013.15"
+  },
+  {
+    "index": 19,
+    "brand": "Mercedes",
+    "model": "Mejia",
+    "cost": "44763.78"
+  },
+  {
+    "index": 20,
+    "brand": "Audi",
+    "model": "Kitty",
+    "cost": "78102.01"
+  },
+  {
+    "index": 21,
+    "brand": "Mercedes",
+    "model": "Fields",
+    "cost": "47869.33"
+  },
+  {
+    "index": 22,
+    "brand": "Bmw",
+    "model": "Vasquez",
+    "cost": "85283.32"
+  },
+  {
+    "index": 23,
+    "brand": "Bmw",
+    "model": "Shanna",
+    "cost": "29560.88"
+  },
+  {
+    "index": 24,
+    "brand": "Bmw",
+    "model": "Sanchez",
+    "cost": "88472.15"
+  },
+  {
+    "index": 25,
+    "brand": "Audi",
+    "model": "Joy",
+    "cost": "50109.06"
+  },
+  {
+    "index": 26,
+    "brand": "Bmw",
+    "model": "Kirby",
+    "cost": "42382.8"
+  },
+  {
+    "index": 27,
+    "brand": "Bmw",
+    "model": "Rosella",
+    "cost": "36652.14"
+  },
+  {
+    "index": 28,
+    "brand": "Bmw",
+    "model": "Lorrie",
+    "cost": "31406.4"
+  },
+  {
+    "index": 29,
+    "brand": "Bmw",
+    "model": "Hart",
+    "cost": "61734.1"
+  },
+  {
+    "index": 30,
+    "brand": "Mercedes",
+    "model": "Tonia",
+    "cost": "86176.03"
+  },
+  {
+    "index": 31,
+    "brand": "Mercedes",
+    "model": "Freida",
+    "cost": "76713.73"
+  },
+  {
+    "index": 32,
+    "brand": "Mercedes",
+    "model": "Jeanette",
+    "cost": "38353.21"
+  },
+  {
+    "index": 33,
+    "brand": "Mercedes",
+    "model": "Meredith",
+    "cost": "33651.54"
+  },
+  {
+    "index": 34,
+    "brand": "Mercedes",
+    "model": "Joyner",
+    "cost": 35145
+  },
+  {
+    "index": 35,
+    "brand": "Mercedes",
+    "model": "Marquita",
+    "cost": "62453.76"
+  },
+  {
+    "index": 36,
+    "brand": "Bmw",
+    "model": "Schmidt",
+    "cost": "17095.02"
+  },
+  {
+    "index": 37,
+    "brand": "Audi",
+    "model": "Cross",
+    "cost": "54659.1"
+  },
+  {
+    "index": 38,
+    "brand": "Mercedes",
+    "model": "Blackwell",
+    "cost": "17638.1"
+  },
+  {
+    "index": 39,
+    "brand": "Audi",
+    "model": "Deleon",
+    "cost": "32693.91"
+  },
+  {
+    "index": 40,
+    "brand": "Bmw",
+    "model": "Alford",
+    "cost": "73334.3"
+  },
+  {
+    "index": 41,
+    "brand": "Audi",
+    "model": "Edith",
+    "cost": "40230.62"
+  },
+  {
+    "index": 42,
+    "brand": "Audi",
+    "model": "Barrett",
+    "cost": "43778.3"
+  },
+  {
+    "index": 43,
+    "brand": "Mercedes",
+    "model": "Hawkins",
+    "cost": "67397.41"
+  },
+  {
+    "index": 44,
+    "brand": "Audi",
+    "model": "Reva",
+    "cost": "32443.15"
+  },
+  {
+    "index": 45,
+    "brand": "Bmw",
+    "model": "Barnes",
+    "cost": "26816.36"
+  },
+  {
+    "index": 46,
+    "brand": "Audi",
+    "model": "Judith",
+    "cost": "45724.22"
+  },
+  {
+    "index": 47,
+    "brand": "Audi",
+    "model": "Yvonne",
+    "cost": "90104.31"
+  },
+  {
+    "index": 48,
+    "brand": "Mercedes",
+    "model": "Garza",
+    "cost": "18287.7"
+  },
+  {
+    "index": 49,
+    "brand": "Mercedes",
+    "model": "Newton",
+    "cost": "37794.61"
+  }
+]

@@ -1,0 +1,9 @@
+<mat-card class="card">
+  <mat-card-header class="card__header">
+    <mat-card-title class="mat-card-title">{{ car.model }}</mat-card-title>
+    <mat-card-subtitle>{{ car.brand }}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <span>{{ car.cost | currency: 'EUR':'symbol':undefined:'it' }}</span>
+  </mat-card-content>
+</mat-card>

@@ -1,0 +1,19 @@
+.widget {
+  box-sizing: border-box;
+  height: 100%;
+  padding: 2em;
+  border: 0.1em solid black;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.widget_form {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.widget__list {
+  height: 100%;
+}

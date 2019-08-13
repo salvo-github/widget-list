@@ -1,0 +1,20 @@
+<div class="widget">
+  <div class="widget_form">
+    <app-select
+      [control]="getBrandFormControl()"
+      [list]="brands"
+      refProperty="name"
+      label="Select the brand"
+    ></app-select>
+    <app-input
+      [control]="getCostFormControl()"
+      label="Maximum price"
+    ></app-input>
+  </div>
+
+  <div class="widget__list">
+    <app-cards>
+      <app-car-card *ngFor="let car of cars | async" [car]="car"></app-car-card>
+    </app-cards>
+  </div>
+</div>
